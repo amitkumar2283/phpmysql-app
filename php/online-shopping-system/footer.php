@@ -7,7 +7,7 @@
 					<div class="row">
 						<div class="col-md-3 col-xs-6">
 							<div class="footer">
-								<h3 class="footer-title">Conact Us</h3>
+								<h3 class="footer-title">Reach Out to Us</h3>
 								
 								<ul class="footer-links">
 									<li><a href="#"><i class="fa fa-map-marker"></i>3rd Floor, No. 38/4, Outer Ring Rd, adjacent to Dell EMC2, Doddanekundi, Bengaluru, Karnataka 560048</a></li>
